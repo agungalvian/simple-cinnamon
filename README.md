@@ -1,5 +1,7 @@
 # simple-cinnamon
 
+![preview](https://i.ibb.co/L8thvdz/Ian-cinnamon-simple.png)
+
 __ICON__:
 [kora](https://github.com/bikass/kora)
 
